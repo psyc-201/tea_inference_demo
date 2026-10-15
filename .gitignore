@@ -1,0 +1,16 @@
+# R session junk -- never useful to a collaborator
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Renviron
+.Rproj.user/
+Rplots.pdf
+
+# Operating system junk
+.DS_Store
+Thumbs.db
+
+# Knitted output
+*.html
+tea_inference_demo_files/
